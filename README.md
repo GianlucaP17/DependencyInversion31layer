@@ -82,6 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to [Your Name] at [your.email@example.com].
+If you have any questions or need further assistance, feel free to reach out to Gianluca at Gianlucapo.apps@gmail.com.
 
 Thank you for your interest in this project! We hope it serves as a helpful resource for understanding iOS app architecture with Dependency Inversion and SOLID principles.
